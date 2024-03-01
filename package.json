@@ -1,6 +1,6 @@
 {
   "name": "@yyyymmddhhmmss/angular-contextmenu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "angular-contextmenu",
   "keywords": [
     "angular",
@@ -15,5 +15,9 @@
   "dependencies": {
     "tslib": "^2.3.0"
   },
-  "sideEffects": false
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19870914/angular-contextmenu.git"
+  }
 }
